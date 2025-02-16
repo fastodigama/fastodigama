@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm passionate about building seamless and dynamic
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fastodigama&show_icons=true&theme=radical)
 
 ### Top Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fastodiama&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fastodigama&layout=compact&theme=radical)
 
 ---
 
