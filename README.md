@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about building seamless and dynamic
 - **Tools:** Git, GitHub
 
 ### Projects
-![Soccer](https://fastodigama.github.io/soccer-game/)
+[Soccer](https://fastodigama.github.io/soccer-game/)
 
 
 ### GitHub Stats:
