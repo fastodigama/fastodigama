@@ -13,6 +13,10 @@ Welcome to my GitHub profile! I'm passionate about building seamless and dynamic
 - **Languages:** HTML, CSS, JavaScript, C#, SQL
 - **Tools:** Git, GitHub
 
+### Projects
+![Soccer](https://fastodigama.github.io/soccer-game/)
+
+
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fastodigama&show_icons=true&theme=radical)
 
