@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building seamless and dynamic
 - 📫 **Contact:** Reach me at [fadel.matar@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/fadelmatar)
 
 ### My Skills:
-- **Languages:** HTML, CSS, JavaScript, C#, SQL
+- **Languages:** HTML, CSS, JavaScript, Node.js, Express, pug, php, C#, SQL
 - **Tools:** Git, GitHub
 
 ### Projects
