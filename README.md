@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm passionate about building seamless and dynamic
 
 ### Projects
 [Soccer](https://fastodigama.github.io/soccer-game/)
+[InstrumentDJ](https://fastodigama.github.io/instrumentDJ/)
 
 
 ### GitHub Stats:
