@@ -4,7 +4,6 @@
 
 Welcome to my GitHub profile! I'm passionate about building seamless and dynamic digital experiences. I'm currently honing my skills in web development and enjoy working with various technologies. Here's a little about me:
 
-- 🌱 **Currently Learning:** HTML, CSS, JavaScript, C#, SQL
 - 💻 **Projects:** Working on exciting projects to strengthen my portfolio
 - 👥 **Collaboration:** Eager to collaborate on open-source projects and learn from the community
 - 📫 **Contact:** Reach me at [fadel.matar@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/fadelmatar)
